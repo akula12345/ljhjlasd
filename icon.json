@@ -1,0 +1,144 @@
+[{
+  "version": "1.0",
+  "image": {
+    "name": "https://github.com/akula12345/ljhjlasd/blob/main/123.png",
+    "baseName": "123.png",
+    "format": "PNG",
+    "formatDescription": "PNG",
+    "mimeType": "image/png",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 512,
+      "height": 512,
+      "x": 0,
+      "y": 0
+    },
+    "resolution": {
+      "x": 28.35,
+      "y": 28.35
+    },
+    "printSize": {
+      "x": 18.06,
+      "y": 18.06
+    },
+    "units": "PixelsPerCentimeter",
+    "type": "Palette",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 786432,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 206.833,
+        "median": 214.333,
+        "standardDeviation": 9960.7,
+        "kurtosis": 0.439162,
+        "skewness": -1.12053,
+        "entropy": 0.0404458
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 246.076,
+        "median": 255,
+        "standardDeviation": 11850.3,
+        "kurtosis": 23.8705,
+        "skewness": -5.06678,
+        "entropy": 0.0394229
+      },
+      "green": {
+        "min": 0,
+        "max": 134,
+        "mean": 129.311,
+        "median": 134,
+        "standardDeviation": 6227.51,
+        "kurtosis": 23.8676,
+        "skewness": -5.06652,
+        "entropy": 0.0425172
+      },
+      "blue": {
+        "min": 0,
+        "max": 254,
+        "mean": 245.111,
+        "median": 254,
+        "standardDeviation": 11804.3,
+        "kurtosis": 23.8676,
+        "skewness": -5.06652,
+        "entropy": 0.0393973
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 512,
+      "height": 512,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "compression": "Zip",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-10-02T00:28:13+00:00",
+      "date:modify": "2022-10-02T00:28:13+00:00",
+      "png:iCCP": "chunk was found",
+      "png:IHDR.bit-depth-orig": "8",
+      "png:IHDR.bit_depth": "8",
+      "png:IHDR.color-type-orig": "2",
+      "png:IHDR.color_type": "2 (Truecolor)",
+      "png:IHDR.interlace_method": "0 (Not interlaced)",
+      "png:IHDR.width,height": "512, 512",
+      "png:pHYs": "x_res=2835, y_res=2835, units=1",
+      "signature": "6fb9d7eccf4d1837bbce87c36c98c119c384f6b529c6f800a50ba79b1253b285"
+    },
+    "profiles": {
+      "icc": {
+        "length": 596
+      }
+    },
+    "tainted": false,
+    "filesize": "10376B",
+    "numberPixels": "262144",
+    "pixelsPerSecond": "20.2276MB",
+    "userTime": "0.010u",
+    "elapsedTime": "0:01.012",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+}]
